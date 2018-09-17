@@ -28,6 +28,6 @@ In the latter case, it is similar to sensational online "clickbait" headlines an
 
 [A Quick Guide to Fake News Detection on Social Media](https://www.kdnuggets.com/2017/10/guide-fake-news-detection-social-media.html)
 
-[spaCy now speaks German](https://explosion.ai/blog/german-model)
+[SpaCy now speaks German](https://explosion.ai/blog/german-model)
 
 [Towards German Word Embeddings: A Use Case with Predictive Sentiment Analysis](https://link.springer.com/chapter/10.1007%2F978-3-658-19287-7_8)
