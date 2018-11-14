@@ -34,4 +34,4 @@ In the latter case, it is similar to sensational online "clickbait" headlines an
 
 [German Word Embeddings](https://devmount.github.io/GermanWordEmbeddings/)
 
-[Detecting_Fake_News](https://github.com/genyunus/Detecting_Fake_News)
+[Detecting Fake News](https://github.com/genyunus/Detecting_Fake_News)
